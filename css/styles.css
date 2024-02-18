@@ -14,8 +14,8 @@ img {
 }
 body {
     font-family: "Roboto", sans-serif; 
-    color: #2e2f42;  
-    background: #fff;
+    color: #434455;
+    background: #FFFFFF;
 }
 
 /* =========== Page header styles =============*/
@@ -122,8 +122,12 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
-background-color: #FFFFFF
+
 }
+.our-team-img{
+    background-color: #FFFFFF
+}
+
 
 .our-team-name {
 font-weight: 500;
