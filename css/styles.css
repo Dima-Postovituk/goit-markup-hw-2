@@ -58,13 +58,11 @@ color: #434455;
 /* =========== Hero section styles =============*/
 .hero {
     background: #2e2f42;
-    width: 1440px;
-height: 600px;
 }
 .hero-text {
 font-weight: 700;
 font-size: 56px;
-line-height: 1.07143;
+line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
@@ -89,10 +87,11 @@ background: #4d5ae5;
 .our-benefits-text {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    color: #2e2f42;
 }
 .our-benefits-list {
 font-weight: 500;
@@ -115,7 +114,7 @@ color: #434455;
 .our-team-text {
 font-weight: 700;
 font-size: 36px;
-line-height: 1.11111;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
@@ -139,7 +138,7 @@ color: #434455;
 .our-portfolio {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -165,21 +164,21 @@ color: #434455;
 background: #2e2f42;
 }
 .footer-logo {
-font-weight: 700;
-font-size: 18px;
-line-height: 1.16667;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd
 }
 .footer-logo-stidio {
     color: #f4f4fd;
 }
 .footer-text {
-font-weight: 400;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #f4f4fd;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }
 /* =========== /footer section styles =============*/
