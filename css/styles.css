@@ -112,7 +112,7 @@ color: #434455;
 /* =========== /our-benefits section styles =============*/
 /* =========== our-team section styles =============*/
 .our-team {
-    background: #ffffff;
+    background: #F4F4FD;
 }
 .our-team-text {
 font-weight: 700;
@@ -122,6 +122,7 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
 color: #2e2f42;
+background-color: #FFFFFF
 }
 
 .our-team-name {
