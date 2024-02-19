@@ -111,6 +111,9 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
+.our-list {
+    background-color: #ffffff;
+}
 /* =========== /our-benefits section styles =============*/
 /* =========== our-team section styles =============*/
 .our-team {
