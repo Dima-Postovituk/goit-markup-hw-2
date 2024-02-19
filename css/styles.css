@@ -148,6 +148,9 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
+.our-team-img-list {
+    background-color: #ffffff;
+}
 /* =========== /our-team section styles =============*/
 /* =========== Portfolio section styles =============*/
 .our-portfolio {
