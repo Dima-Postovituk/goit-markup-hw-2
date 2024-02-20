@@ -128,6 +128,7 @@ color: #434455;
 /* =========== our-team section styles =============*/
 .our-team {
     background-color: #F4F4FD
+    color: #2e2f42;
 }
 .our-team-text {
 font-weight: 700;
